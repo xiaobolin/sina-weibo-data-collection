@@ -1,0 +1,1 @@
+the project aids at crawling datas through sina weibo included information on statuses and reposts, users
